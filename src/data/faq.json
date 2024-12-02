@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is TalentConnect?",
+    "answer": "TalentConnect is an innovative job portal designed to connect employers with top talent. Companies can post job openings, and candidates can search, apply, and track job listings with ease."
+  },
+  {
+    "question": "How do I post a job?",
+    "answer": "As an employer, simply log in, navigate to the 'Post a Job' section, and fill out the required job details. Your job listing will be published in minutes for job seekers to apply."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Job seekers can search for relevant jobs using keywords, location filters, categories, and more. Use the search bar on the homepage or the job search page to find your dream job."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "To apply for a job, simply click on the job listing, follow the instructions, and upload your resume. Make sure to provide all necessary information to stand out."
+  },
+  {
+    "question": "Can I save jobs for later?",
+    "answer": "Yes! You can save jobs you're interested in by clicking the 'Save Job' button. Access your saved jobs at any time from your profile's 'Saved Jobs' section."
+  },
+  {
+    "question": "How do I track my job applications?",
+    "answer": "You can easily track your job applications from your profile under the 'Applications' section. Stay updated on the status of each application and get notified about any changes."
+  }
+]
